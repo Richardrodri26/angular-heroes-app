@@ -5,6 +5,7 @@
   </mat-card-header>
 
   <!-- TODO: implementar imagen -->
+   <img mat-card-image [src]="hero | heroImage" [alt]="hero.superhero">
 
   <mat-card-content class="mt-2">
     <h4>{{ hero.publisher }}</h4>
@@ -27,5 +28,13 @@
       <mat-icon>edit</mat-icon>
       Editar
     </button>
+
+  <span class="spacer"></span>
+
+  <button mat-button mat-raised [routerLink]="['/heroes', hero.id]">
+    <mat-icon>more_horiz</mat-icon>
+    Más
+  </button>
+
   </mat-card-actions>
 </mat-card>
