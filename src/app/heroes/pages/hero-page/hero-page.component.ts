@@ -18,7 +18,7 @@ export class HeroPageComponent implements OnInit {
     private heroService: HeroesService,
     private activatedRoute: ActivatedRoute,
     private router: Router,
-  ){}
+  ){};
 
   ngOnInit(): void {
     this.activatedRoute.params
@@ -33,6 +33,10 @@ export class HeroPageComponent implements OnInit {
         return;
 
       })
+  }
+
+  goBack():void {
+    this.router.navigateByUrl('heroes/list');
   }
 
 
