@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://www.utadeo.edu.co/sites/tadeo/files/node/wysiwyg/whatsapp_image_2020-04-25_at_15.51.35.jpeg"
     },
     {
       "id": "dc-flash",
@@ -166,6 +167,24 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "-BBid-U",
+      "superhero": "Richard",
+      "publisher": "DC Comics",
+      "alter_ego": "Az0405",
+      "first_appearance": "a",
+      "characters": "ad",
+      "alt_img": "https://static.wikia.nocookie.net/dragonball/images/c/c0/Son_Goku_en_Super_Hero.png/revision/latest?cb=20220302091733&path-prefix=es"
+    },
+    {
+      "id": "bEH33K5",
+      "superhero": "Richard",
+      "publisher": "DC Comics",
+      "alter_ego": "Az0405",
+      "first_appearance": "a",
+      "characters": "ad",
+      "alt_img": "https://cdn.pixabay.com/photo/2021/02/18/20/52/goku-6028390_960_720.png"
     }
   ]
 }
