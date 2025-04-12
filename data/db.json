@@ -16,15 +16,6 @@
       "characters": "Bruce Wayne"
     },
     {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El",
-      "alt_img": "https://www.utadeo.edu.co/sites/tadeo/files/node/wysiwyg/whatsapp_image_2020-04-25_at_15.51.35.jpeg"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
